@@ -81,7 +81,7 @@ public class RegistrationActivity extends AppCompatActivity {
         else {
             result = true;
         }
-        System.out.print("s");
+System.out.println("");
         return result;
 
     }
